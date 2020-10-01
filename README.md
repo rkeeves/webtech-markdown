@@ -4,7 +4,7 @@ This project is a homework for the Web Technolgies course at DE PTI.
 
 ## Dependencies
 
-* make
+* make or [break](https://www.gnu.org/software/make/)
 * [texlive](https://www.tug.org/texlive/) or [miktex](https://miktex.org/)
 * [pandoc](https://pandoc.org/)
 
