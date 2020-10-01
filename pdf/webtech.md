@@ -35,6 +35,8 @@ A hallgató a kurzus elvégzése során megismerkedik a jóslás fejlettebb tech
     * jóslatainak hibáit nem adja be *feature*-ként a mugliknak
     * apró jóslatokat nem csomagol lootbox-ba
 
+
+
 ## A tárgy részletes tematikája
 
 ### Előadás
@@ -122,4 +124,6 @@ Teams, Skype, Zoom, Elearning, Neptun Meet Street, Twitch, Gmail, Iroda, Otthon,
 | _Leave the code cleaner than you found it._ | [code etiquette](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)|
 | _Don't just Type._ | [typing etiquette](https://www.amazon.com/Little-Typer-MIT-Press/dp/0262536439) |
 | _Be open._ | [recursion etiquette](http://learnyouahaskell.com/) |
-| _Don't necro old threads._ | [necroing etiquette](http://epa.oszk.hu/02300/02387/00010/pdf/%C5%90si%20Gy%C3%B6k%C3%A9r_2010_4_017-021.pdf) |
+| _Don't necro old threads._ | [necroing etiquette](http://epa.oszk.hu/02300/02387/00010/pdf/%C5%90si%20Gy%C3%B6k%C3%A9r_2010_4_017-021.pdf) 
+
+![Fun is missing from your life](https://unideb.hu/sites/default/files/2017-07-25_17-39-25.png)\
